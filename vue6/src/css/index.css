@@ -1,0 +1,13 @@
+li{
+    font-size: 12px;
+}
+#box{
+    width: 200px;
+    height: 200px;
+    background: url("../images/1.png") no-repeat;
+}
+#box1{
+    width: 201px;
+    height: 200px;
+    background: url("../img/1.png") no-repeat;
+}
